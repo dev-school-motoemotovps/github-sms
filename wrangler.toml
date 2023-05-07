@@ -1,4 +1,0 @@
-name = "github-twilio-notifications"
-main = "/workspaces/github-sms/github-twilio-notifications/src/index.js"
-compatibility_date = "2023-05-03"
-node_compat = true
